@@ -16,3 +16,5 @@ Aby uruchomić BoboCentyl, sklonuj repozytorium i uruchom Jupyter Notebook BoboC
 git clone https://github.com/TwojeKonto/BoboCentyl.git
 cd BoboCentyl
 jupyter notebook BoboCentylv2.ipynb
+jupyter notebook BoboCentylv2.5.ipynb
+jupyter notebook BoboCentylv3.ipynb
