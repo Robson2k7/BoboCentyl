@@ -10,7 +10,7 @@ BoboCentyl to aplikacja pozwalająca na szybkie obliczenia i wizualizację siate
 - Biblioteki: pandas, matplotlib, seaborn, xlrd
 
 ### Instalacja
-Aby uruchomić BoboCentyl, sklonuj repozytorium i uruchom Jupyter Notebook `BoboCentylv2.ipynb, `BoboCentylv2.5.ipynb, `BoboCentylv3.ipynb:
+Aby uruchomić BoboCentyl, sklonuj repozytorium i uruchom Jupyter Notebook BoboCentylv2.ipynb, BoboCentylv2.5.ipynb, BoboCentylv3.ipynb:
 
 ```bash
 git clone https://github.com/TwojeKonto/BoboCentyl.git
